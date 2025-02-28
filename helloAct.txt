@@ -1,5 +1,9 @@
 Answer the following:
 What challenges did you face during this activity
+- first thing is that I really forgot on how to push on my github repository
+  second is when I tend create a file inside my directory, it will show an error
+  third is when I prompted this "git push -u origin main" (command) in my terminal, it shows an error stating "error: failed to push some refs to 'https://github.com/stayfocuz/Academz.git'"
 Which Git command was the most confusing?
+- this command "git push -u origin main" will really show an error that shows "failed to push some refs to 'https://github.com/stayfocuz/Academz.git" which really made me confused. Also, whenever I named my directory as "SIMGit_Activity" it says the the directory is already exist which makes me curious because that was the first time I created those directory.
 How can version control help in real-world software development?
-
+- Version control is essential in software development because it facilitates tracking changes in code, collaboration management, and avoiding conflicts among developers. It enables teams to work independently on various features, revert back to earlier versions if necessary, and maintain code quality through review. It also simplifies release management, offers an audit trail for accountability, and integrates with continuous integration tools to automate deployment and testing. Overall, version control boosts productivity, lowers risks, and keeps a transparent history of project development.
